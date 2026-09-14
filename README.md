@@ -35,3 +35,6 @@ The goal of this project is to demonstrate how Artificial Intelligence and Compu
 
 Taniya Yadav  
 B.Tech CSE
+## 📸 Project Demo
+
+![AI Object Detection Result](Screenshot_20260914_154038.jpg)
